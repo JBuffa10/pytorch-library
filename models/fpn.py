@@ -4,7 +4,9 @@ import torch
 from collections import OrderedDict
 from utils.fpn_blocks import UpSample, Smooth
 
-# --------------------------- Feature Pyramid Network with ResNet or DenseNet backbone ---------------------------
+## ----------------------------------------------------------------
+## FEATURE PYRAMID NETWORK WITH RESNET OR DENSENET BACKBONE
+## -----------------------------------------------------------------
 
 
 
